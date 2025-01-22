@@ -1,0 +1,10 @@
+[project]
+name = "qft-sims"
+version = "1.0.0"
+description = "Animations of classical and quantum harmonic oscillators"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.2",
+]
